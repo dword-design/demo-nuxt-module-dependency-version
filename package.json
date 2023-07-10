@@ -1,0 +1,13 @@
+{
+  "name": "try-nuxt-vuefire-lru-cache",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nuxt dev",
+    "prepare": "cp -R node_modules2/. node_modules"
+  },
+  "dependencies": {
+    "nuxt": "^3.6.2"
+  }
+}
